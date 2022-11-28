@@ -1,0 +1,7 @@
+.idea
+/target
+/src/test/resources/logs/**
+**.DS_Store
+out
+/src/test/resources/screenshots/**
+*.iml
